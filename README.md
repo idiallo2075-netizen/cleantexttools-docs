@@ -77,3 +77,10 @@ https://cleantexttools.com/contact
 This repository provides public documentation and project information for CleanTextTools.
 
 Private infrastructure, backend systems, business strategy, analytics, deployment configurations, and proprietary implementation details are not included.
+## Links
+
+- Website: https://cleantexttools.com
+- AI Text Cleaner: https://cleantexttools.com/clean-ai-text/
+- Clean ChatGPT Text: https://cleantexttools.com/chatgpt-cleaner/
+- Contact: https://cleantexttools.com/contact/
+- Privacy Policy: https://cleantexttools.com/privacy-policy/
